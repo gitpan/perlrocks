@@ -39,4 +39,4 @@ resources:
     type: git
     url: git://github.com/gugod/perlrocks.git
     web: http://github.com/gugod/perlrocks/tree
-version: 0.01
+version: 0.02
